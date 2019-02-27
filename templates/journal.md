@@ -1,8 +1,8 @@
-# $NAME's Technical Journal
+# ANCA's Technical Journal
 
-## Week Two (1/30 to 2/6)
+## Week 4 (2/14 to 2/21)
 
-This week, I spent part of my time reviewing Git and the command line, including an hour with the DHRI command line tutorial. I found Git to be tough going, but feel like I made solid progress learning how to use pipes on the command line, though I'm still a little confused on the details of how they work. I also started learning how to run scripts in Python, which was very time consuming.
+This week, I spent spent most of the time in trying to catch up with what I have been missing. Basically, I had to study the command line and the Git syntax in order to finally start exercising some Python. I realized things are not that simple though. 
 
 Hour 1: Git review using Pro Git book
 Hour 2: Git review using Pro Git book
