@@ -15,3 +15,9 @@ This week, I finally managed to get my hands on "Learn Python the Hard Way", whi
 I found it very useful for the first lessons of Python. Of course, I always reached out to Google whenever I found myself lost. But I have also discovered this is an important part of the process: don't give up after the first error, just keep on (calmly!) seeking for your mistakes, and be aware of the signals you get on the way. I do not know how programmers relate to that in the coding vocabulary, I'd just call it "proceed, don't freak out". 
 
 Besides that, I was reading about pros and cons of static site generators and of Wordpress, which got me more analytical about my work. 
+
+## Week 6 (3/1 - 9/1)
+
+This week was actually more difficult than the previous ones. Main lesson: if you take a break from exercises, you will definitely forget everything you have learnt before. Even the simple commands become a hard task when the brain has gotten rid of this new, quite "what am I going to do with all this, dear?" type of information. 
+
+To be honest, that week I had to get back to everything I had learnt, and practice it all over again. Frustrating? Maybe. But obviously worth noticing that there is no other way around. 
